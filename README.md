@@ -8,6 +8,4 @@
 
 <p align = "center">
 
-    WhatsAsenaPublic - Made By KAWEESHA_CHAMOD.
-
-    <br>
+    BOT CRESHED😑
